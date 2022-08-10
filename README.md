@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Netshoes with Java and Kotlin.
+🔭 I’m currently working with Java and Kotlin.
 <!--
 **hugotsouza/hugotsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
